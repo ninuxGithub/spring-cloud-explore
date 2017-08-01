@@ -13,6 +13,10 @@
 		<module>spring-cloud-feign</module>
 		<module>spring-cloud-ribbon-hystrix</module>
 		<module>spring-cloud-feign-hystrix</module>
+		<module>spring-cloud-zuul</module>
+		<module>spring-cloud-config-server</module>
+		<module>spring-cloud-config-client</module>
+		<module>spring-cloud-turbine</module>
 	</modules>
 	<packaging>pom</packaging>
 	<parent>
